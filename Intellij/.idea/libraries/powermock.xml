@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="powermock">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/powermock" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/powermock" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/powermock" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/powermock" recursive="false" type="SOURCES" />
+  </library>
+</component>

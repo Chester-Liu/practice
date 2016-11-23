@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Intellij.iml" filepath="$PROJECT_DIR$/Intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mockito/Mockito.iml" filepath="$PROJECT_DIR$/Mockito/Mockito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TDD/TDD.iml" filepath="$PROJECT_DIR$/TDD/TDD.iml" />
+    </modules>
+  </component>
+</project>
